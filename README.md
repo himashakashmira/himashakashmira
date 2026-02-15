@@ -1,93 +1,80 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Himasha+Kashmira;Software+Engineering+Student+💻;Java+%7C+Web+Developer+🌐;Learning+and+Building+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Himasha+Kashmira+Waduge;Software+Engineering+Student+💻;Passionate+about+Coding+🚀;Future+Software+Engineer+🎯"/>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00E6FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00f7ff&style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="center">💻 Software Engineering Student from Sri Lanka</h3>
+## 👨‍💻 About Me
+
+🎓 Software Engineering Student  
+💻 Learning Java, Web Development, and Databases  
+🚀 Interested in building real-world software projects  
+🌱 Currently improving my development skills  
+🎯 Goal: Become a Professional Software Engineer  
+
+---
+
+## 💻 Programming Languages
 
 <p align="center">
-Passionate about programming, learning new technologies, and building real-world software projects.
+  <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🛠 Tools & Technologies
 
-- 🎓 Software Engineering Student  
-- ☕ Learning Java and Software Development  
-- 🌐 Exploring Web Development  
-- 🗄️ Learning Database Systems  
-- 🎯 Goal: Become a Professional Software Engineer  
+<div align="center">
 
----
-
-### 🌐 Connect with me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/Himasha Kashmira">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://x.com/HimashaKashmira">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-
-<a href="https://discord.com/users/YOUR-DISCORD-ID">
-<img src="https://skillicons.dev/icons?i=discord" height="40"/>
-</a>
-
-<a href="https://www.instagram.com/himasha_kashmira?igsh=ZmMyZWltZnVzbGI=">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-</p>
-
----
-
-### 🧠 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-</p>
-
----
-
-### 🛠 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,intellij"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=intellij"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" title="NetBeans"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" title="DataGrip"/>
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashakashmira&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/himasha_kashmira?igsh=ZmMyZWltZnVzbGI=">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/himasha-kashmira-201a64385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://x.com/HimashaKashmira?t=wIC5ti6TcR4YT77gIpUm_w&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+
+  <a href="https://discord.com/users/YOUR-ID">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
 
 </p>
 
 ---
 
-### 🔥 Contribution Activity
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himashakashmira&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### ✨ Developer Mindset
-
-<p align="center">
-"Code. Learn. Build. Improve. Repeat." 🚀
+  ⭐ From <b>Himasha Kashmira</b>
 </p>
