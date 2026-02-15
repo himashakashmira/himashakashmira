@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00E6FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00E6FF&style=for-the-badge"/>
 </p>
 
 ---
@@ -31,9 +31,23 @@ Passionate about programming, learning new technologies, and building real-world
 ### 🌐 Connect with me
 
 <p align="center">
-<a href="https://instagram.com/himashakashmira">
+
+<a href="https://linkedin.com/in/Himasha Kashmira">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://x.com/HimashaKashmira">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://discord.com/users/YOUR-DISCORD-ID">
+<img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/himasha_kashmira?igsh=ZmMyZWltZnVzbGI=">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
+
 </p>
 
 ---
@@ -49,7 +63,19 @@ Passionate about programming, learning new technologies, and building real-world
 ### 🛠 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=intellij"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" title="DataGrip"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/SceneBuilderLogo.png" width="48" title="SceneBuilder"/>
+
 </p>
 
 ---
