@@ -70,11 +70,9 @@ Passionate about programming, learning new technologies, and building real-world
 
 <img src="https://skillicons.dev/icons?i=intellij"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" title="NetBeans"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" title="DataGrip"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/SceneBuilderLogo.png" width="48" title="SceneBuilder"/>
 
 </p>
 
