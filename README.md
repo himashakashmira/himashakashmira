@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Himasha+Kashmira;Software+Engineering+Student+💻;Java+%7C+Web+Developer+🌐;Learning+and+Building+Everyday+🚀" />
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00E6FF&style=for-the-badge" />
+</p>
+
 ---
 
 <h3 align="center">💻 Software Engineering Student from Sri Lanka</h3>
