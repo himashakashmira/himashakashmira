@@ -28,22 +28,6 @@
 
 ---
 
-## 🛠 Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,intellij"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
