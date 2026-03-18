@@ -10,16 +10,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Software Engineering Student  
-💻 Learning Java, Web Development, and Databases  
-🚀 Interested in building real-world software projects  
-🌱 Currently improving my development skills  
-🎯 Goal: Become a Professional Software Engineer  
-
----
-
 ## 💻 Programming Languages
 
 <p align="center">
