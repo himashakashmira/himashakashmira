@@ -94,9 +94,9 @@ https://himashakashmira.github.io/My-Portfolio/
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashakashmira&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=himashakashmira&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himashakashmira&theme=tokyonight&hide_border=true"/>
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=himashakashmira&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -135,16 +135,6 @@ https://himashakashmira.github.io/My-Portfolio/
 <div align="center">
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313s4zt7lepfl3fthteiat26b54e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
-
-# ⚡ Fun Zone
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
