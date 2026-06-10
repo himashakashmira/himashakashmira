@@ -1,8 +1,43 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=HIMASHA%20KASHMIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Developer;🚀+Software+Engineering+Student;⚡+Building+Amazing+Projects;🌟+Always+Learning+New+Technologies)](https://git.io/typing-svg) <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/> </div> --- # 🌌 About Me <table> <tr> <td width="55%"> ### 👨‍💻 Developer Profile ```yaml Name: Himasha Kashmira Country: Sri Lanka 🇱🇰 Role: Software Engineering Student Focus: - Full Stack Development - UI/UX Design - Backend Development Currently Learning: - Spring Boot - React - System Design - Microservices Goal: - Become a Professional Software Engineer Motto: - Learn • Build • Improve • Repeat
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=HIMASHA%20KASHMIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Developer;🚀+Software+Engineering+Student;⚡+Building+Amazing+Projects;🌟+Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=himashakashmira&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+<table>
+<tr>
+
+<td width="55%">
+
+### 👨‍💻 Developer Profile
+
+Name: Himasha Kashmira
+Country: Sri Lanka 🇱🇰
+Role: Software Engineering Student
+Focus:
+  - Full Stack Development
+  - UI/UX Design
+  - Backend Development
+
+Currently Learning:
+  - Spring Boot
+  - React
+  - System Design
+  - Microservices
+
+Goal:
+  - Become a Professional Software Engineer
+
+Motto:
+  - Learn • Build • Improve • Repeat
 
 📧 Email: [himashakashmira7@gmail.com](mailto:himashakashmira7@gmail.com)
 
@@ -25,17 +60,44 @@ https://www.linkedin.com/in/himasha-kashmira-201a64385
 
 ---
 
-# ⚒️ Tech Stack <div align="center"> ### 💻 Programming Languages <img src="https://skillicons.dev/icons?i=java,js,ts,cpp" /> ### 🎨 Frontend Development <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" /> ### ⚙️ Backend Development <img src="https://skillicons.dev/icons?i=nodejs,spring,maven" /> ### 🗄️ Databases <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> ### 🛠️ Tools & Platforms <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,vscode,idea" /> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/> <img src="https://img.shields.io/badge/Adobe_Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </div>
-
----
-
-# 🎵 Spotify Now Playing
+# ⚒️ Tech Stack
 
 <div align="center">
 
-> Replace YOUR_SPOTIFY_ID with your Spotify User ID
+### 💻 Programming Languages
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=313s4zt7lepfl3fthteiat26b54e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp" />
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,maven" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,vscode,idea" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
+<img src="https://img.shields.io/badge/Adobe_Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
 
@@ -81,11 +143,11 @@ https://www.linkedin.com/in/himasha-kashmira-201a64385
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎵 Spotify Now Playing
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=himashakashmira&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=313s4zt7lepfl3fthteiat26b54e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
 
 </div>
 
