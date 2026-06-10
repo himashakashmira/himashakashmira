@@ -17,40 +17,27 @@
 
 <td width="55%">
 
-### 👨‍💻 Developer Profile
+### 👨‍💻 
 
-Name: Himasha Kashmira
-Country: Sri Lanka 🇱🇰
-Role: Software Engineering Student
+I am Himasha Kashmira. I am From Sri Lanka 🇱🇰 <br>
+
 Focus:
   - Full Stack Development
   - UI/UX Design
   - Backend Development
 
-Currently Learning:
-  - Spring Boot
-  - React
-  - System Design
-  - Microservices
-
 Goal:
   - Become a Professional Software Engineer
-
-Motto:
-  - Learn • Build • Improve • Repeat
 
 📧 Email: [himashakashmira7@gmail.com](mailto:himashakashmira7@gmail.com)
 
 🌐 Portfolio:
 https://himashakashmira.github.io/My-Portfolio/
 
-💼 LinkedIn:
-https://www.linkedin.com/in/himasha-kashmira-201a64385
-
 </td>
 
 <td width="45%" align="center">
-
+  
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
 </td>
@@ -133,7 +120,7 @@ https://www.linkedin.com/in/himasha-kashmira-201a64385
 
 ---
 
-# 📅 3D Contribution Calendar
+# 📅 Contribution Calendar
 
 <div align="center">
 
@@ -158,16 +145,6 @@ https://www.linkedin.com/in/himasha-kashmira-201a64385
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/himashakashmira/himashakashmira/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -200,4 +177,3 @@ https://www.linkedin.com/in/himasha-kashmira-201a64385
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-```
