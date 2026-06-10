@@ -10,7 +10,7 @@
 
 ---
 
-# 🌌 About Me
+🌌 About Me
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# ⚒️ Tech Stack
+⚒️ Tech Stack
 
 <div align="center">
 
@@ -90,7 +90,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -110,7 +110,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 <div align="center">
 
@@ -120,7 +120,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# 📅 Contribution Calendar
+📅 Contribution Calendar
 
 <div align="center">
 
@@ -130,7 +130,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# 🎵 Spotify Now Playing
+🎵 Spotify Now Playing
 
 <div align="center">
 
@@ -140,7 +140,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
