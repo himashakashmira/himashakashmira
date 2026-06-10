@@ -1,51 +1,141 @@
-<!-- Typing Header -->
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=HIMASHA%20KASHMIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Developer;🚀+Software+Engineering+Student;⚡+Building+Amazing+Projects;🌟+Always+Learning+New+Technologies)](https://git.io/typing-svg) <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/> </div> --- # 🌌 About Me <table> <tr> <td width="55%"> ### 👨‍💻 Developer Profile ```yaml Name: Himasha Kashmira Country: Sri Lanka 🇱🇰 Role: Software Engineering Student Focus: - Full Stack Development - UI/UX Design - Backend Development Currently Learning: - Spring Boot - React - System Design - Microservices Goal: - Become a Professional Software Engineer Motto: - Learn • Build • Improve • Repeat
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Himasha+Kashmira+Waduge;Software+Engineering+Student+💻;Passionate+about+Coding+🚀;Future+Software+Engineer+🎯"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himashakashmira&label=Profile%20Views&color=00f7ff&style=for-the-badge"/>
-</p>
+📧 Email: [himashakashmira7@gmail.com](mailto:himashakashmira7@gmail.com)
+
+🌐 Portfolio:
+https://himashakashmira.github.io/My-Portfolio/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/himasha-kashmira-201a64385
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# ⚒️ Tech Stack <div align="center"> ### 💻 Programming Languages <img src="https://skillicons.dev/icons?i=java,js,ts,cpp" /> ### 🎨 Frontend Development <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" /> ### ⚙️ Backend Development <img src="https://skillicons.dev/icons?i=nodejs,spring,maven" /> ### 🗄️ Databases <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> ### 🛠️ Tools & Platforms <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,vscode,idea" /> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/> <img src="https://img.shields.io/badge/Adobe_Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </div>
 
 ---
 
-## 🔥 Contribution Activity
+# 🎵 Spotify Now Playing
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashakashmira&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
----
+> Replace YOUR_SPOTIFY_ID with your Spotify User ID
 
-## 🌐 Connect with Me
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=313s4zt7lepfl3fthteiat26b54e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
 
-<p align="center">
-  <a href="https://www.instagram.com/himasha_kashmira?igsh=ZmMyZWltZnVzbGI=">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/himasha-kashmira-201a64385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-  <a href="https://x.com/HimashaKashmira?t=wIC5ti6TcR4YT77gIpUm_w&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-
-  <a href="https://discord.com/users/YOUR-ID">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⭐ From <b>Himasha Kashmira</b>
-</p>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashakashmira&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himashakashmira&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashakashmira&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himashakashmira&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📅 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himashakashmira&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=himashakashmira&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/himashakashmira/himashakashmira/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/himasha-kashmira-201a64385">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:himashakashmira7@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://github.com/himashakashmira">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
+```
