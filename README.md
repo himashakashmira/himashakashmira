@@ -120,17 +120,7 @@ https://himashakashmira.github.io/My-Portfolio/
 
 ---
 
-🎵 Spotify Now Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=313s4zt7lepfl3fthteiat26b54e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
-
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
