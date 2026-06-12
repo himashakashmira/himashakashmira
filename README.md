@@ -51,23 +51,13 @@ https://himashakashmira.github.io/My-Portfolio/
 
 <div align="center">
 
-### 💻 Programming Languages
-
 <img src="https://skillicons.dev/icons?i=java,js,ts,cpp" />
-
-### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
-### ⚙️ Backend Development
-
 <img src="https://skillicons.dev/icons?i=nodejs,spring,maven" />
 
-### 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-### 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,vscode,idea" />
 
