@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=HIMASHA%20KASHMIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=HIMASHA%20KASHMIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Developer;🚀+Software+Engineering+Student;⚡+Building+Amazing+Projects;🌟+Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
